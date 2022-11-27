@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.exe
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.deps.json
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.runtimeconfig.json
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.runtimeconfig.dev.json
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.dll
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\ref\Numeric_lab5.dll
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\bin\Debug\net5.0\Numeric_lab5.pdb
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.dll
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\ref\Numeric_lab5.dll
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.pdb
+C:\Users\User\Desktop\Project\Учебные\ASU\Numeric_lab5\Numeric_lab5\obj\Debug\net5.0\Numeric_lab5.genruntimeconfig.cache
