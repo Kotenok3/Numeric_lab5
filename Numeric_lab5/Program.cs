@@ -40,7 +40,7 @@ namespace Numeric_lab5
                 {
                     //f = a * Y[m-1] - b * Y[m] + c * Y[m + 1];
 
-                    f = -(h * h / ty) - (1 - G) * (Y[m - 1] - 2 * Y[m] + Y[m + 1]) - h * h * F(m * h, ty * (n + 0.5));
+                    f = -(h * h / ty)* Y[m] - (1 - G) * (Y[m - 1] - 2 * Y[m] + Y[m + 1]) - h * h * F(m * h, ty * (n + 0.5));
 
                     A[m+1] = c / (b - A[m] * a);
                     B[m+1] = (B[m] * a - f) / (b - a * A[m]);
@@ -52,7 +52,7 @@ namespace Numeric_lab5
                     Y[m - 1] = A[m] * Y[m] + B[m];
                 }
             }
-            Console.WriteLine($"n = {N}, G = {G}");
+            Console.WriteLine($"n = {N}, m = {M}, G = {G}, max esp = {Enumerable.Range(0,M+1).Select(i => Math.Abs(Uxt(i*h,1)-Y[i])).Max():f4}" );
             Console.WriteLine("  m |   U[m]  |    y[m]   | esp");
             for (int i = 0; i <= M; i++)
             {
